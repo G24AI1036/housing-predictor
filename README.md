@@ -14,8 +14,8 @@ This project sets up a complete MLOps workflow to predict housing prices in Cali
 
 ### **Project Resources**
 
-* **GitHub Repository**: \[[https://github.com/sourin00/housing-predictor](https://github.com/sourin00/housing-predictor)]
-* **Docker Image**: \[[https://hub.docker.com/repository/docker/sourin00/housing-predictor/general](https://hub.docker.com/repository/docker/sourin00/housing-predictor/general)]
+* **GitHub Repository**: https://github.com/G24AI1036/housing-predictor
+* **Docker Image**: https://hub.docker.com/r/g24ai1036/mlops-pipeline
 
 ---
 
